@@ -46,6 +46,15 @@ I will help you :)
 ![screenshot_20170816-120746](https://user-images.githubusercontent.com/17498974/30049204-ad026890-9254-11e7-8c70-73fed606012a.png)
 
 
+##Detecting artificial structure
+![2017-09-05 20 21 11](https://user-images.githubusercontent.com/17498974/30061430-4854b6ea-9282-11e7-8609-d9a48275897f.png)
+
+##Detecting leaflet 
+![2017-09-05 20 19 10](https://user-images.githubusercontent.com/17498974/30061434-4e946db6-9282-11e7-9fc7-befbcf00b1ca.png)
+
+##Detecting nike shoes 
+![2017-09-05 20 25 02](https://user-images.githubusercontent.com/17498974/30061441-52f8f8b8-9282-11e7-8442-0d64f4a48773.png)
+
 ##Detecting sneakers snack
 ![screenshot_20170816-095536](https://user-images.githubusercontent.com/17498974/30049157-7c8e61d2-9254-11e7-9358-3463a0099099.png)
 
