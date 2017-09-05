@@ -34,6 +34,14 @@ I will help you :)
 ![screenshot_20170905-155801](https://user-images.githubusercontent.com/17498974/30049136-644b5f76-9254-11e7-99ff-c756e5c91a61.png)
 
 
+##Using object features in picture
+##Americano coffee
+![screenshot_20170905-191900](https://user-images.githubusercontent.com/17498974/30056889-83aa10ea-926f-11e7-8229-18dfd5152ca5.png)
+
+##Detecting Americano coffee
+![screenshot_20170905-191852](https://user-images.githubusercontent.com/17498974/30056940-b70d6144-926f-11e7-8c57-7ecb8b2578ea.png)
+
+
 ##Detecting mini fan
 ![screenshot_20170816-120746](https://user-images.githubusercontent.com/17498974/30049204-ad026890-9254-11e7-8c70-73fed606012a.png)
 
