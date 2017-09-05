@@ -5,8 +5,7 @@
 
 This project was created by working at kth(KT Hitel).
 
-When a user take a picuture or load to album, PickPic recommend similar item (Open market - G market ETC..)
-Using OpenCV4Android SDK.
+When a user takes a picture or load to the album, PickPic recommends similar items (Open market - G market ETC..) Using OpenCV4Android SDK.
 
 I used the color space (HSV, YCrCb, GrayScale.. ETC),  many Algorithm (findcontours, drawcontours, threshold, color segmenation ETC)
 
