@@ -1,6 +1,6 @@
 "# OpenCV4Android" 
 
-# PickPic  
+# PickPic  release version : https://youtu.be/v2bJJXJHd5c
 ## written by hyunsung 2017-09-05
 
 This project was created by working at kth(KT Hitel).
