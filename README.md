@@ -49,6 +49,12 @@ I will help you :)
 ##Detecting sneakers snack
 ![screenshot_20170816-095536](https://user-images.githubusercontent.com/17498974/30049157-7c8e61d2-9254-11e7-9358-3463a0099099.png)
 
+##Detecting cafe chair
+![screenshot_20170905-193848](https://user-images.githubusercontent.com/17498974/30058334-81be400c-9275-11e7-9c95-0ae19bc5ed40.png)
+
+##Detecting my lap-top
+![screenshot_20170905-200041](https://user-images.githubusercontent.com/17498974/30058332-7dd147dc-9275-11e7-908d-1d0fef10bcb6.png)
+
 
 ##Detecting mini fan
 ![screenshot_20170901-014244](https://user-images.githubusercontent.com/17498974/30049187-99693b06-9254-11e7-96ea-0a24a27d6cd6.png)
